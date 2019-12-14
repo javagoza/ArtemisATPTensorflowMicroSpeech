@@ -90,14 +90,14 @@ Running an Example
 ### Configure the Hardware
 * Plug USB cable into computer
 * Connect Serial to USB adapter to USB cable
-* Plug in Edge board to adpater
+* Plug in Artemis ATP board to adpater
 
 
 ### Configure the Software
 * Install and setup Arduino as described [above](#software-setup).
 * Download (or clone) this repo to favorite location
 * Open Arduino
-* Open an example from this repo through Arduino by clicking on a ```.ino``` file in one of the example directories
+* Open an example from this repo through Arduino by clicking on the ```.ino``` file in the example directory
   * ```micro_speech```
 * Select the ```SparkFun RedBoard Artemis ATP``` board (Tools->Board under 'SparkFun Apollo3')
 * Select the proper port to connect with the baord (Tools->Port)
