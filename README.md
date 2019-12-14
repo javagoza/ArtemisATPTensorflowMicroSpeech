@@ -84,7 +84,7 @@ To install package, use the following steps:
 * Search for *SparkFun*
 * Select the **SparkFun Apollo3 Boards" package 
 * Close the dialog
-* Select the SparkFun Edge Board. ***Tools > Boards "..." > SparkFun Edge***
+* Select the SparkFun Edge Board. ***Tools > Boards "..." > SparkFun RedBoard Artemis ATP***
 * Set the Bootloader to the ***SparkFun Variable Loader***. ***Tools > Bootloader "..." > SparkFun Variable Loader..."
 
 Running an Example
@@ -102,7 +102,7 @@ Running an Example
 * Open Arduino
 * Open an example from this repo through Arduino by clicking on a ```.ino``` file in one of the example directories
   * ```micro_speech```
-* Select the ```SparkFun Edge``` board (Tools->Board under 'SparkFun Apollo3')
+* Select the ```SparkFun RedBoard Artemis ATP``` board (Tools->Board under 'SparkFun Apollo3')
 * Select the proper port to connect with the baord (Tools->Port)
   * Windows - COM Port
   * Linux - /dev/ttyUSB*, where * is a number. NOTE: Permissions on this device needs to include user read and write (chmod 666)
