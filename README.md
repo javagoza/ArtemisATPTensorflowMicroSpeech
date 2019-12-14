@@ -8,14 +8,11 @@ This repository is a copy of [sparkfun/Tensorflow_AIOT2019](https://github.com/s
    <img src="https://www.gstatic.com/devrel-devsite/prod/v0ee3aab4746d30f0d189bec7de9a20f1b6a1e49e000167a7abfdd73e499fffdc/tensorflow/images/lockup.svg"  width=300>   
 </p>
 
-Micro Speech example that demonstrate the use of TensorFlow Lite based machine learning executing on the SparkFun Artemis ATP Development board. The example is designed for use within the Arduino development environment.
-
-
-<img src="https://cdn.sparkfun.com//assets/parts/1/4/0/1/7/15442-SparkFun_RedBoard_Artemis_ATP-04a.jpg"  align="right" width=300> 
-
-This repository contains examples that demonstrate the use of [TensorFlow Lite](https://www.tensorflow.org/lite/) based machine learning executing on the [SparkFun Artemis ATP Development](https://www.sparkfun.com/products/15442) board. The examples are designed for use within the Arduino development environment.
+This repository contains the Micro Speech example that demonstrates the use of [TensorFlow Lite](https://www.tensorflow.org/lite/) based machine learning executing on the [SparkFun Artemis ATP Development](https://www.sparkfun.com/products/15442). The example is designed for use within the Arduino development environment.
 
 The example contained in this repository, micro_speech, uses the on-board microphone to detect a spoken keyword.
+
+<img src="https://cdn.sparkfun.com//assets/parts/1/4/0/1/7/15442-SparkFun_RedBoard_Artemis_ATP-04a.jpg"  align="right" width=300> 
 
 ## Contents
 
