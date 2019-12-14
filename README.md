@@ -25,7 +25,7 @@ Required Hardware
 
 To run the examples, the following hardware is required:
 * [SparkFun Artemis ATP Development](https://www.sparkfun.com/products/15442)
-* [USB-A to micro-B cable](https://www.sparkfun.com/products/10215) or a cable to connect the Serial Basic to the development computer.
+* [Reversible USB-A to USB-C cable](https://www.sparkfun.com/products/15425) or a cable to connect the Development Board to the development computer.
 
 <p align="center" valign="middle">
    <img src="https://cdn.sparkfun.com//assets/parts/1/4/0/1/7/15442-SparkFun_RedBoard_Artemis_ATP-04a.jpg"  width=80>  
