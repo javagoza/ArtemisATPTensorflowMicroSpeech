@@ -46,7 +46,7 @@ The Arduino application is available for a variety of platforms and is available
 
 ### Install the TensorFlowLite Library
 
-The examples utilize the TensorFlowLight Arduino libary, which is installed using the Arduino Library Manager. 
+The examples utilize the TensorFlowLite Arduino libary, which is installed using the Arduino Library Manager. 
 
 To install this library, use the following steps:
 <img src="resource/TFL_Install.png"  align="right" width=350>
