@@ -89,7 +89,6 @@ Running an Example
 
 ### Configure the Hardware
 * Plug USB cable into computer
-* Connect Serial to USB adapter to USB cable
 * Plug in Artemis ATP board to adpater
 
 
