@@ -1,6 +1,16 @@
 Artemis ATP TensorFlow Micro Speech
 ===================================
 
+See in Hackster.io: [Hackster.io Artemis ATP Wake Word Detection](https://www.hackster.io/javagoza/artemis-atp-wake-word-detection-d95f08)
+
+<p align="center" valign="middle">
+   <a href="https://www.hackster.io/javagoza/artemis-atp-wake-word-detection-d95f08">
+   <img src="resource/HacksterioArtemisATPRensorflowSample.jpg">
+   </a>
+</p>
+
+
+
 This repository is a copy of [sparkfun/Tensorflow_AIOT2019](https://github.com/sparkfun/Tensorflow_AIOT2019) repository adapted for the [SparkFun Artemis ATP Development](https://www.sparkfun.com/products/15442)
 
 <p align="center" valign="middle">
